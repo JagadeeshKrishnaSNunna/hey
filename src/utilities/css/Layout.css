@@ -1,0 +1,17 @@
+.layout-style{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-style{
+    width: 30%;
+    height: 545px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+}
+.message-style{
+    width: 70%;
+    height: 545px;
+}

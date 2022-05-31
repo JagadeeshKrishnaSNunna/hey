@@ -1,0 +1,31 @@
+.contact-container{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: whitesmoke;
+    overflow-y: visible;
+    
+}
+.container-content{
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;   
+}
+.account-content{
+    color: white;
+    position:relative;
+    margin-left: 15px;
+    margin-top: -15px;
+}
+.account-content > h5{
+    margin-top: -15px;
+}
+
+
+/* Actions */
+
+.contact-container:hover{
+    background-color: rgb(44, 43, 43);
+}
