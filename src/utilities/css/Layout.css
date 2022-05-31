@@ -5,7 +5,8 @@
 
 .contact-style{
     width: 30%;
-    height: 545px;
+    height: 555px;
+    min-width: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -13,5 +14,9 @@
 }
 .message-style{
     width: 70%;
-    height: 545px;
+    height: 485px;
+}
+.message-footer{
+    width: 100%;
+    height: 70px;
 }

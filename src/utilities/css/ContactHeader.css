@@ -17,6 +17,7 @@
 }
 .contact-header-container > input{
     width: 250px;
+    min-width: 125px;
     height: 25px;
     border-radius: 10pc;
     border-style: solid;
